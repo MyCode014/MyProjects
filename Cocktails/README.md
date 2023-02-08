@@ -1,6 +1,6 @@
 npm install react-router-dom@6 
 
-<img align="right" alt="coding" width="400" src="[https://miro.medium.com/v2/resize:fit:720/1*qdAW1TjCN57h1lbuuzvchg.gif](https://markovicmaja.files.wordpress.com/2023/01/sl3.png)">
+<img align="right" alt="coding" width="400" src="https://markovicmaja.files.wordpress.com/2023/01/sl3.png">
 
 
 # Getting Started with Create React App

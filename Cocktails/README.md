@@ -1,8 +1,10 @@
 -npm install 
 </br>
--npm start
-</br>
 -npm install react-router-dom@6 
+</br>
+-npm start
+
+
 
 <h1 align="center">Cocktail Website</h1>
 

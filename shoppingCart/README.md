@@ -12,7 +12,7 @@
   </br>
   
 
-  - useState, useContext, useReducer, useEffect  from react
+  -  useState, useContext, useReducer, useEffect  from react
   </br>
   -  ...state, clearCart, remove, increase, decrease, toggleAmount
   </br>

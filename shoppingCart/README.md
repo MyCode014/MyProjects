@@ -14,7 +14,7 @@
 
   - useState, useContext, useReducer, useEffect  from react
   </br>
-  - ...state, clearCart, remove, increase, decrease, toggleAmount
+  -  ...state, clearCart, remove, increase, decrease, toggleAmount
   </br>
   
 </h4>
